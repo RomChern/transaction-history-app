@@ -1,0 +1,14 @@
+.errorRequestHistoryScreen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+  padding: 50px 20px;
+
+  font-size: 14px;
+  font-weight: 400px;
+  line-height: 18px;
+  color: #191919;
+}

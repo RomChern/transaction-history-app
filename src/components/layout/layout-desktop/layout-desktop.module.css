@@ -1,0 +1,39 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: #f9f9f9;
+}
+
+.header {
+  min-height: 74px;
+  max-height: 74px;
+  display: flex;
+  background-color: #ffffff;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  height: calc(100vh - 74px);
+}
+
+.leftSideBar {
+  flex: 1;
+  padding: 40px 20px;
+  height: 100%;
+}
+
+.mainContent {
+  flex: 5;
+  max-width: 870px;
+  padding: 0 20px;
+  height: 100%;
+}
+
+.rightSideBar {
+  flex: 1;
+  padding: 40px 20px;
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+}

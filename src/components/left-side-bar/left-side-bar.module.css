@@ -1,0 +1,17 @@
+.leftMenu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  width: 320px;
+  height: 100%;
+}
+
+.text {
+  color: #191919;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 36px;
+  opacity: 25%;
+}

@@ -1,0 +1,17 @@
+.widgets {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  width: 420px;
+  height: 100%;
+}
+
+.text {
+  opacity: 25%;
+  color: #191919;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 36px;
+}

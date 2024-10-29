@@ -1,0 +1,12 @@
+.timeline {
+  display: flex;
+  flex-direction: column;
+  background-color: #f9f9f9;
+  overflow: auto;
+  height: 100%;
+  position: relative;
+}
+
+.timelineContent {
+  margin: 20px 0 60px 0;
+}

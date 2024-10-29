@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+.header {
+  height: 64px;
+}
+
+.mainContent {
+  height: calc(100vh - 64px - 64px);
+  overflow: auto;
+}
+
+.tapBar {
+  height: 64px;
+}

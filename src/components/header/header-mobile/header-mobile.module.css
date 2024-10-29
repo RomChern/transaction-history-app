@@ -1,0 +1,9 @@
+.headerMobile {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  padding: 0 20px;
+  align-items: center;
+  flex: 0;
+  height: 100%;
+}

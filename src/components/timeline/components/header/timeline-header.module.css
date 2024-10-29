@@ -1,0 +1,16 @@
+.timeLineHeader {
+  display: flex;
+  font-size: 30px;
+  line-height: 36px;
+  padding: 15px 20px;
+}
+
+.button {
+  flex: 0;
+  border: none;
+  background-color: transparent;
+}
+
+.textContainer {
+  flex: 1;
+}

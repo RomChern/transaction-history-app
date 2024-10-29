@@ -1,0 +1,11 @@
+.button {
+  width: 71px;
+  border: none;
+  background-color: transparent;
+}
+.label {
+  font-size: 10px;
+  line-height: 13px;
+  font-weight: 500;
+  color: #c8c8c8;
+}

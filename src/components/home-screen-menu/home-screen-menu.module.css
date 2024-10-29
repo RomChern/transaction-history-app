@@ -1,0 +1,7 @@
+.homeScreenMenu {
+  position: fixed;
+  left: 50%;
+  bottom: 74px;
+  z-index: 10;
+  transform: translateX(-50%);
+}

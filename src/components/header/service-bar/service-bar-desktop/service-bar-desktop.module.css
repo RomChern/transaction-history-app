@@ -1,0 +1,15 @@
+.serviceBar {
+  display: flex;
+  gap: 20px;
+  padding: 0px 20px;
+}
+
+.serviceBar button {
+  background-color: transparent;
+  border: none;
+  gap: 20px;
+}
+
+.serviceBar button svg {
+  width: 24px;
+}
